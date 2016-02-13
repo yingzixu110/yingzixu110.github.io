@@ -10,5 +10,4 @@ image:
 
 Hello Everyone!
 <br    />
-My name is Yingzi (Sandy) XU and I am currently a Ph.D. student in [Statistics at North Carolina State University](http://www.stat.ncsu.edu/). I work with Dr. Howard Bondell on new classification methods. Before moving to North Carolina, I grew up in [Hangzhou](http://eng.hangzhou.gov.cn/), China.
-I  completed my undergraduate studies at [Zhejiang University](http://www.zju.edu.cn/english/) with major in Applied Biology and minor in Finance.
+My name is Yingzi (Sandy) XU and I am currently a Ph.D. student in [Statistics at North Carolina State University](http://www.stat.ncsu.edu/). I work with Dr. Howard Bondell on new classification methods. Before moving to North Carolina, I grew up in [Hangzhou](http://eng.hangzhou.gov.cn/), China and graduated from [Zhejiang University](http://www.zju.edu.cn/english/) in 2012 with  Bachelor's degrees in Applied Biology and Finance.
