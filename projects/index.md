@@ -13,7 +13,7 @@ comments: true
 
 - Achieved root mean squared error (RMSE) 6.5% better than the overall average benchmark with a blended model
 
-- Report available [_here_](http://127.0.0.1:4000/projects/yelp_report.pdf/)
+- Report available [_here_](http://yingzixu110.github.io/projects/yelp_report.pdf/)
 
 
 #### Click-through Rate Prediction of Online Advertisements
@@ -21,7 +21,7 @@ comments: true
 
 - Achieved a prediction accuracy 19.4% better than the benchmark based on ROC curve
 
-- Report available [_here_](http://127.0.0.1:4000/projects/click_report.pdf/)
+- Report available [_here_](http://yingzixu110.github.io/projects/click_report.pdf/)
 
 #### Top 10 Articles in Wikipedia via Hadoop Map/Reduce
 - Explored a 41GB of XML text file in Wiki markup language to get the top 10 popular articles by implementing map/reduce scripts in Python
@@ -31,7 +31,7 @@ comments: true
 
 - Implemented time series model and  spatial panal model to predict the future gas price 
 
-- Poster available [_here_](http://127.0.0.1:4000/projects/spatial_poster.pdf/)
+- Poster available [_here_](http://yingzixu110.github.io/projects/spatial_poster.pdf/)
 
 
 #### Longitudinal Study of Different Tillage Treatments Effect on Soil Moisture
@@ -42,8 +42,8 @@ comments: true
 
 - Developed a generalized additive models to compare the effect of different tillage treatmens
 
-- Report available [_here_](http://127.0.0.1:4000/projects/soil_report.pdf/)
-- Slides available [_here_](http://127.0.0.1:4000/projects/soil_slides.pdf/)
+- Report available [_here_](http://yingzixu110.github.io/projects/soil_report.pdf/)
+- Slides available [_here_](http://yingzixu110.github.io/projects/soil_slides.pdf/)
 
 
 #### A Bayesian Approach to Compare Survival Rate of Bone Marrow Transplant Methods
@@ -53,7 +53,7 @@ comments: true
 
 - Compared the effectiveness of the two methods using Monte Carlo methods
 
-- Poster available [_here_](http://127.0.0.1:4000/projects/baysian_poster.pdf/)
+- Poster available [_here_](http://yingzixu110.github.io/projects/baysian_poster.pdf/)
 
 
 #### Longitudinal Study of the African American English Development
@@ -61,7 +61,7 @@ comments: true
 
 - Investigated variance structure of repeated measurements, completed population level model, random coeffient model, linear mixed model and generalized linear mixed model
 
-- Report available [_here_](http://127.0.0.1:4000/projects/aae_report.pdf/)
+- Report available [_here_](http://yingzixu110.github.io/projects/aae_report.pdf/)
 
 
 
