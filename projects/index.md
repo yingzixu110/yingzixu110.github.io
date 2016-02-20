@@ -8,6 +8,15 @@ comments: true
 ---
 {% include _toc.html %}
 
+
+#### Spatial Study of Gasoline Price Trend in United States
+- Discovered the price trend and pattern difference of seven regions in U.S.
+
+- Implemented time series model and  spatial panal model to predict the future gas price 
+
+- Poster available [_here_](http://www4.ncsu.edu/~yxu15/spatial_poster.pdf)
+
+
 #### Recommender System for Yelp Business Rating Prediction
 - Implemented different recommendation system models such as collaborative filtering model to predict the future ratings of business given by specific users given a detailed snapshot of Yelp data
 
@@ -26,12 +35,16 @@ comments: true
 #### Top 10 Articles in Wikipedia via Hadoop Map/Reduce
 - Explored a 41GB of XML text file in Wiki markup language to get the top 10 popular articles by implementing map/reduce scripts in Python
 
-#### Spatial Study of Gasoline Price Trend in United States
-- Discovered the price trend and pattern difference of seven regions in U.S.
 
-- Implemented time series model and  spatial panal model to predict the future gas price 
+#### A Bayesian Approach to Compare Survival Rate of Bone Marrow Transplant Methods
+- Analyzed bone marrow transplant survival data using a Bayesian Cox Proportional Hazards Model
 
-- Poster available [_here_](http://www4.ncsu.edu/~yxu15/spatial_poster.pdf)
+- Developed both parametric and semi-parametric models to approximate the baseline hazards
+
+- Compared the effectiveness of the two methods using Monte Carlo methods
+
+- Poster available [_here_](http://www4.ncsu.edu/~yxu15/baysian_poster.pdf)
+
 
 
 #### Longitudinal Study of Different Tillage Treatments Effect on Soil Moisture
@@ -44,16 +57,6 @@ comments: true
 
 - Report available [_here_](http://www4.ncsu.edu/~yxu15/soil_report.pdf)
 - Slides available [_here_](http://www4.ncsu.edu/~yxu15/soil_slides.pdf)
-
-
-#### A Bayesian Approach to Compare Survival Rate of Bone Marrow Transplant Methods
-- Analyzed bone marrow transplant survival data using a Bayesian Cox Proportional Hazards Model
-
-- Developed both parametric and semi-parametric models to approximate the baseline hazards
-
-- Compared the effectiveness of the two methods using Monte Carlo methods
-
-- Poster available [_here_](http://www4.ncsu.edu/~yxu15/baysian_poster.pdf)
 
 
 #### Longitudinal Study of the African American English Development
