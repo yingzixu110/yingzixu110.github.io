@@ -35,7 +35,7 @@ comments: true
 #### A Bayesian Approach to Compare Survival Rate of Bone Marrow Transplant Methods
 - Developed both parametric and semi-parametric Bayesian Cox Proportional Hazards models to compare the effectiveness of two bone marrow transplant methods 
 
-- Poster available [_here_](http://www4.ncsu.edu/~yxu15/baysian_poster.pdf)
+- Poster available [_here_](http://www4.ncsu.edu/~yxu15/bayesian_poster.pdf)
 
 
 
