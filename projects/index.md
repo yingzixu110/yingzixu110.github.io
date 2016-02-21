@@ -20,13 +20,10 @@ comments: true
 #### Recommender System for Yelp Business Rating Prediction
 - Implemented different recommendation system models such as collaborative filtering model to predict the future ratings of business given by specific users given a detailed snapshot of Yelp data
 
-- Report available [_here_](http://www4.ncsu.edu/~yxu15/yelp_report.pdf)
-
 
 #### Click-through Rate Prediction of Online Advertisements
 - Predicted the click-through rate of ads via multivariate linear regression models, logistic regression models and Support Vector Machine based on 16 million records of user information
 
-- Report available [_here_](http://www4.ncsu.edu/~yxu15/click_report.pdf)
 
 #### Top 10 Articles in Wikipedia via Hadoop MapReduce
 - Explored a 41GB of XML text file in Wiki markup language to get the total word count and top 10 popular articles through Pig and MapReduce scripts in Python
