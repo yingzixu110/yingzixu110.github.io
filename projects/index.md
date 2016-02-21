@@ -10,9 +10,9 @@ comments: true
 
 
 #### Spatial Study of Gasoline Price Trend in United States
-- Discovered the price trend and pattern difference of seven regions in U.S.
+- Visulized price trend and pattern difference of seven regions in U.S.
 
-- Implemented time series model and  spatial panal model to predict the future gas price 
+- Developed a predictive model for future gas price in different regions of United State via time series analysis and spatial panel anlysis
 
 - Poster available [_here_](http://www4.ncsu.edu/~yxu15/spatial_poster.pdf)
 
@@ -20,28 +20,20 @@ comments: true
 #### Recommender System for Yelp Business Rating Prediction
 - Implemented different recommendation system models such as collaborative filtering model to predict the future ratings of business given by specific users given a detailed snapshot of Yelp data
 
-- Achieved root mean squared error (RMSE) 6.5% better than the overall average benchmark with a blended model
-
 - Report available [_here_](http://www4.ncsu.edu/~yxu15/yelp_report.pdf)
 
 
 #### Click-through Rate Prediction of Online Advertisements
-- Implemented multivariate linear regression models and logistic regression models to predict the click- through rate of ads based on 16 million records of user information
-
-- Achieved a prediction accuracy 19.4% better than the benchmark based on ROC curve
+- Predicted the click-through rate of ads via multivariate linear regression models, logistic regression models and Support Vector Machine based on 16 million records of user information
 
 - Report available [_here_](http://www4.ncsu.edu/~yxu15/click_report.pdf)
 
 #### Top 10 Articles in Wikipedia via Hadoop MapReduce
-- Explored a 41GB of XML text file in Wiki markup language to get the top 10 popular articles by implementing map/reduce scripts in Python
+- Explored a 41GB of XML text file in Wiki markup language to get the total word count and top 10 popular articles through Pig and MapReduce scripts in Python
 
 
 #### A Bayesian Approach to Compare Survival Rate of Bone Marrow Transplant Methods
-- Analyzed bone marrow transplant survival data using a Bayesian Cox Proportional Hazards Model
-
-- Developed both parametric and semi-parametric models to approximate the baseline hazards
-
-- Compared the effectiveness of the two methods using Monte Carlo methods
+- Developed both parametric and semi-parametric Bayesian Cox Proportional Hazards models to compare the effectiveness of two bone marrow transplant methods 
 
 - Poster available [_here_](http://www4.ncsu.edu/~yxu15/baysian_poster.pdf)
 
@@ -58,7 +50,7 @@ comments: true
 
 
 #### Longitudinal Study of the African American English Development
-- Developed longitudinal models to examine the evolution of the African American English vernacular, while accounting for time dependent / independent covariates in both population level and individual level
+- Developed longitudinal models to examine the evolution of the African American English vernacular, while accounting for time dependent / independent covariates
 
 - Investigated variance structure of repeated measurements, completed population level model, random coeffient model, linear mixed model and generalized linear mixed model
 
