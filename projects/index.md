@@ -32,7 +32,7 @@ comments: true
 
 - Report available [_here_](http://www4.ncsu.edu/~yxu15/click_report.pdf)
 
-#### Top 10 Articles in Wikipedia via Hadoop Map/Reduce
+#### Top 10 Articles in Wikipedia via Hadoop MapReduce
 - Explored a 41GB of XML text file in Wiki markup language to get the top 10 popular articles by implementing map/reduce scripts in Python
 
 
@@ -49,11 +49,9 @@ comments: true
 
 #### Longitudinal Study of Different Tillage Treatments Effect on Soil Moisture
 
-- Analyzed soil moisture trend profiles over time for each of the six tillage treatment groups
+- Consulting project for client Dr. Jeffrey G. White in Department of Soil Sciense in NCSU
 
-- Discovered appropriate covariance models and corresponding correlation models between different time points
-
-- Developed a generalized additive models to compare the effect of different tillage treatmens
+- Determined tillage effects on soil moisture while capturing trends and patterns by missing data handling, time series analysis, longitudinal analysis
 
 - Report available [_here_](http://www4.ncsu.edu/~yxu15/soil_report.pdf)
 - Slides available [_here_](http://www4.ncsu.edu/~yxu15/soil_slides.pdf)
@@ -72,6 +70,6 @@ comments: true
 
 - Conducted questionnaire design, investigations and collected data
 
-- Explored and analyzed data using SAS, developed Mixed Model and Generalized Estimating Equation (GEE) analysis method for continuous and categorical response variables
+- Discovered key factors that affect the credit card consumption by linear mixed mdel via SAS
 
 - Prepared professional research report to  banks
