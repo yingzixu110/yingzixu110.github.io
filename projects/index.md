@@ -10,7 +10,7 @@ comments: true
 
 
 #### Spatial Study of Gasoline Price Trend in United States
-- Visulized price trend and pattern difference of seven regions in U.S.
+- Visualized price trend and pattern difference of seven regions in U.S.
 
 - Developed a predictive model for future gas price in different regions of United State via time series analysis and spatial panel anlysis
 
